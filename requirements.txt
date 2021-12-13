@@ -1,5 +1,5 @@
 # Install if you gonna scrape amazon
-lxml==3.8.0
+lxml==4.6.5
 requests==2.18.3
 dataset==0.8.0
 
