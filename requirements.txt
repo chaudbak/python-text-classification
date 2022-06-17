@@ -5,7 +5,7 @@ dataset==0.8.0
 
 # Scikit
 scipy==0.19.1
-numpy==1.13.1
+numpy==1.21.0
 scikit-learn==0.18.2
 nltk==3.2.4
 
